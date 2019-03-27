@@ -1,5 +1,5 @@
 ﻿<div>
-<h1>vue-autosuggest</h1>
+<h1>vue-autosuggest test</h1>
 
 <p>🔍 Autosuggest component built for Vue.</a></p>
 </div>
